@@ -1,4 +1,4 @@
-![MasterHead](https://storage.googleapis.com/gweb-cloudblog-publish/original_images/MLOps_Kloeckner_Hero_Banner_1920x946.gif)
+[![MasterHead](https://storage.googleapis.com/gweb-cloudblog-publish/original_images/MLOps_Kloeckner_Hero_Banner_1920x946.gif)]
 <h1 align="center">Hi 👋, I'm Rahul Mittal</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 <img align="right" alt="DevOps" width="400" src="https://ralfneubauer.info/wp-content/uploads/2021/01/OpsZapDev.gif">
